@@ -11,6 +11,10 @@ class HomeScreen extends StatelessWidget {
       'title': 'Beautiful Sunset',
       'image': 'assets/images/slide1.jpg',
     },
+    {
+      'title': 'Beautiful Sunset',
+      'image': 'assets/images/slide2.jpg',
+    },
   ];
 
   // Sample data for the carousel

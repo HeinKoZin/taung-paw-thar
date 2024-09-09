@@ -1,4 +1,4 @@
-package com.example.taung_paw_thar
+package com.taungpawthat.shankoemee
 
 import io.flutter.embedding.android.FlutterActivity
 
